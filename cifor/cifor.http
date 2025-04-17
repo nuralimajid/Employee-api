@@ -1,0 +1,6 @@
+@cifor_HostAddress = http://localhost:5080
+
+GET {{cifor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
